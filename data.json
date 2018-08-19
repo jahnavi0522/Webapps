@@ -1,0 +1,47 @@
+{
+  "basic":{
+    "name":"Jahnavi",
+    "role":"mean-stack",
+  "mobile":"+91 9595959595",
+"email":"kaparatij@gmail.com"
+},
+"career":{
+  "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+},
+"education":[
+  {
+    "degree":"B.tech(Computer Science & Engineering)",
+    "institute":"Vignan Nirula",
+    "data":["2016-20","80%"]
+  },
+  {
+    "degree":"intermediate(MPC)",
+    "institute":"sri Chaitanya",
+    "data":["2014-16","93%"]
+  },
+  {
+    "degree":"SSC",
+    "institute":"Kennedy EM High School",
+    "data":["2014","93%"]
+  }
+],
+"skills":[
+  {
+    "title":"programming Languages",
+    "content":["Python","C","Java","R","c++"]
+  },
+  {
+    "title":"Data Bases",
+    "content":["SQL","Oracle","mySQL"]
+  },
+  {
+    "title":"Web Technologies",
+    "content":["HTML","XML","JavaScript"]
+  },
+  {
+    "title":"Operating Systems",
+    "content":["Windows","linux","Unix"]
+  }
+
+]
+}
